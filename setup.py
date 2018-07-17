@@ -19,6 +19,7 @@ setuptools.setup(
         "Intended Audience :: Developers",
         "Intended Audience :: System Administrators",
         "Environment :: Console",
+        "Development Status :: 4 - Beta",
         "Programming Language :: Python",
         "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 2.7",
