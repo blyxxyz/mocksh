@@ -1,0 +1,11 @@
+*.pyc
+__pycache__
+/build
+/dist
+/mocksh.egg-info
+/.tox
+/.mypy_cache
+/.pytest_cache
+*.py~
+.vscode
+.idea
